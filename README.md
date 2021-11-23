@@ -22,7 +22,7 @@ make10 パズルを解くプログラム
 
 ### 場合の数
 入力が 4 桁の場合は `(4C2 * 6 ) * (3C2 * 6 ) * (2C2 * 6) = 3888`，
-一般解では ![image](https://user-images.githubusercontent.com/56746857/142732843-156efad9-d652-49a3-a032-5d69b1b7bc8e.png)
+一般解では ![\prod_{k=2}^{n}(_k C _2 \times 6)](images/math-1.svg)
 となるが，重複を除去するとこれより小さい値になる．
 
 ## 入出力

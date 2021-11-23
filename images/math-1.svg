@@ -51,41 +51,41 @@
 </symbol>
 </g>
 </defs>
-<g style="fill:currentcolor" id="surface1">
-<g style="fill-opacity:1;">
+<g id="surface1">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph0-1" x="3.398438" y="8.201172"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph1-1" x="0.355469" y="33.488281"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph2-1" x="8.152344" y="33.488281"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph2-2" x="17.613281" y="33.488281"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph1-2" x="8.984375" y="3.757812"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph3-1" x="23.167969" y="11.006006"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph1-1" x="28.628906" y="23.683594"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph4-1" x="32.90625" y="19.640625"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph2-2" x="42.066406" y="22.363281"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph5-1" x="50.0625" y="19.640625"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph5-2" x="61.484375" y="19.640625"/>
 </g>
-<g style="fill-opacity:1;">
+<g style="fill: currentColor; fill-opacity:1">
   <use xlink:href="#glyph3-2" x="67.996094" y="11.006006"/>
 </g>
 </g>
